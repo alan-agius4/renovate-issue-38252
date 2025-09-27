@@ -1,1 +1,8 @@
-{}
+{
+  "packagesRules": [
+    {
+      "groupName": "bazel dependencies",
+      "matchManagers": ["bazel", "bazel-module"]
+    }
+  ]
+}
